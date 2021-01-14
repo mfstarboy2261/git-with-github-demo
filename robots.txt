@@ -3,7 +3,7 @@
 User-agent: *
 Disallow:
 # mera naam divakar h bhai kya kru bta
-# This line has been added to demonstrate the usage of "git push" commanii
+# bhai kya karu gaand fatt rhi h pr kr lunga bdiya mai push kr
 # This line has been added to demonstrate the usage of SSH protocol
 
 # some line
